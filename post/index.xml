@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>LookAround的博客</title>
-        <link>https://LookAround123.github.io/</link>
-        <description>Recent content on LookAround的博客</description>
+        <title>Posts on LookAround的博客</title>
+        <link>https://LookAround123.github.io/post/</link>
+        <description>Recent content in Posts on LookAround的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>LookAround</copyright>
-        <lastBuildDate>Mon, 03 Mar 2025 22:26:31 +0800</lastBuildDate><atom:link href="https://LookAround123.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Mar 2025 22:26:31 +0800</lastBuildDate><atom:link href="https://LookAround123.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>待办清单开发</title>
         <link>https://LookAround123.github.io/p/%E5%BE%85%E5%8A%9E%E6%B8%85%E5%8D%95%E5%BC%80%E5%8F%91/</link>
         <pubDate>Mon, 03 Mar 2025 22:26:31 +0800</pubDate>
@@ -275,31 +275,6 @@
 &lt;/div&gt;&lt;h3 id=&#34;总结&#34;&gt;&lt;strong&gt;总结&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Hugo 的 Front Matter 是一个强大的工具，可以让你灵活地控制页面的渲染和行为。通过合理使用这些属性，你可以优化网站的结构、SEO 和用户体验。如果你使用的是特定主题，建议查阅主题的文档，了解它支持的自定义 Front Matter 属性。&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://LookAround123.github.io/%E5%BD%92%E6%A1%A3/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://LookAround123.github.io/%E5%BD%92%E6%A1%A3/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://LookAround123.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://LookAround123.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://LookAround123.github.io/%E6%90%9C%E7%B4%A2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://LookAround123.github.io/%E6%90%9C%E7%B4%A2/</guid>
-        <description></description>
         </item>
         
     </channel>
